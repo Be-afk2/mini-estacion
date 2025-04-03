@@ -1,0 +1,4 @@
+codigo para interfaz :  listo
+codigo para temp y humedad : listo
+codigo para antena de comunicacion : pendiente
+codigo para interactuar con un api : pendiente
